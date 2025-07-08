@@ -1,4 +1,4 @@
-<h1 justify-content="center">Hallo Welt</h1> 👋<div align="center">
+<h1 align="center">Hallo Welt</h1> 👋<div align="left">
   <a href="https://www.instagram.com/_jens_baumeister_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
