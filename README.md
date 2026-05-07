@@ -47,6 +47,7 @@ Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien.
 ### 👾 Contribution Pacman
 
 <div align="center">
+  <h3>👾 My Contributions</h3>
   <img src="https://raw.githubusercontent.com/jens-baumeister/jens-baumeister/output/github-contribution-grid-snake.svg" alt="Pacman Animation" />
 </div>
 
