@@ -5,7 +5,7 @@
   <h1 align="center">Moin, ich bin Jens Baumeister 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p align="center">
