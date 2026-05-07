@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/jens-baumeister-5aa1143ab/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
     </a>
   </p>
 </div>
