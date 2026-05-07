@@ -1,28 +1,3 @@
-1. <picture>
-2.   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jens-baumeister/jens-baumeister/output/pacman-contribution-graph-dark.svg">
-3.   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jens-baumeister/jens-baumeister/output/pacman-contribution-graph.svg">
-4.   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jens-baumeister/jens-baumeister/output/pacman-contribution-graph.svg">
-5. </picture>
-6. 
-7. ###
-8. 
-9. <div align="center">
-10.   <img src="https://github-readme-stats.vercel.app/api?username=jens-baumeister&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-11.   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jens-baumeister&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-12. </div>
-13. 
-14. ###
-15. 
-16. <div align="left">
-17.   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-18.   <a href="https://discord.gg/NTf5NsY9SE" target="_blank">
-19.     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-20.   </a>
-21. </div>
-22. 
-23. ###
-<div align="center">
-
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0070f3&height=200&section=header&text=Jens%20Baumeister&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner" />
 
   <a href="https://git.io/typing-svg">
