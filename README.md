@@ -19,8 +19,8 @@
 
 ### 💫 Über mich
 
-Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien. Aktuell arbeite ich viel mit JavaScript und CSS.
-
+Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien. 
+Ich verwandle Ihre Designs in performante, responsive Webanwendungen.
 
 ---
 
