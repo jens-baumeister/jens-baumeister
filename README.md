@@ -27,7 +27,7 @@ Ich verwandle Ihre Designs in performante, responsive Webanwendungen.
 ### 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,typescript,angular,nodejs,git,github,vscode,figma" />
 </div>
 
 ---
