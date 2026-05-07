@@ -1,7 +1,11 @@
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0070f3&height=200&section=header&text=Jens%20Baumeister&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner" />
+<div align="center">
+
+  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Tech Banner" />
+
+  <h1 align="center">Moin, ich bin Jens Baumeister 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Enthusiast;Creative+Problem+Solver;Lernender+aus+Leidenschaft" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,11 +19,10 @@
 
 ### 💫 Über mich
 
-Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien. Aktuell arbeite ich viel mit JavaScript und CSS, um responsive und benutzerfreundliche Applikationen zu erstellen.
+Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien. Aktuell arbeite ich viel mit JavaScript und CSS.
 
 - 🔭 Ich arbeite aktuell an: **sakura-ramen-responsive** & **bestellApp**
-- 🌱 Ich lerne gerade: **Fortgeschrittene Backend-Strukturen & Frameworks**
-- ⚡ Fun Fact: Ich liebe es, komplexe Probleme in einfache, elegante Lösungen zu verwandeln.
+- 🌱 Ich lerne gerade: **Backend-Strukturen & Frameworks**
 
 ---
 
@@ -31,56 +34,19 @@ Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Meine GitHub Aktivitäten
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jens-baumeister&show_icons=true&theme=radical&title_color=0070f3&icon_color=0070f3&hide_border=true" alt="Jens' GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jens-baumeister&show_icons=true&theme=nord&hide_border=false" alt="Jens Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jens-baumeister&layout=compact&theme=radical&title_color=0070f3&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jens-baumeister&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jens-baumeister&layout=compact&theme=nord&hide_border=false" alt="Top Langs" />
 </div>
 
 ---
 
-### 🏆 Top Projekte
+### 👾 Contribution Pacman
 
 <div align="center">
-  <br />
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <strong>🚀 Pokedex</strong><br />
-        Ein interaktiver Pokedex basierend auf der PokeAPI.<br />
-        <em>Tech: JavaScript, HTML, CSS</em>
-      </td>
-      <td width="50%">
-        <strong>🍜 Sakura Ramen</strong><br />
-        Ein responsives Design für ein authentisches Restaurant-Erlebnis.<br />
-        <em>Tech: HTML, CSS</em>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <strong>🛍️ BestellApp</strong><br />
-        Moderne UI für einen reibungslosen Bestellprozess.<br />
-        <em>Tech: CSS, JavaScript</em>
-      </td>
-      <td width="50%">
-        <strong>🎮 QuizApp</strong><br />
-        Ein spaßiges Quiz-Game zum Testen von Wissen.<br />
-        <em>Tech: JavaScript</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>👾 My Contributions</h3>
   <img src="https://raw.githubusercontent.com/jens-baumeister/jens-baumeister/output/github-contribution-grid-snake.svg" alt="Pacman Animation" />
 </div>
 
