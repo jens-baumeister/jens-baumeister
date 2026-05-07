@@ -19,7 +19,7 @@
 
 ### 💫 Über mich
 
-Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien. 
+Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien.<br>
 Ich verwandle Ihre Designs in performante, responsive Webanwendungen.
 
 ---
