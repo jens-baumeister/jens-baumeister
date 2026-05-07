@@ -34,16 +34,13 @@ Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jens-baumeister&show_icons=true&theme=transparent&hide_border=true&title_color=0070f3&icon_color=0070f3&text_color=555" alt="Jens' GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jens-baumeister&layout=compact&theme=transparent&hide_border=true&title_color=0070f3&text_color=555" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=jens-baumeister&show_icons=true&theme=radical&title_color=0070f3&icon_color=0070f3&hide_border=true" alt="Jens' GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jens-baumeister&layout=compact&theme=radical&title_color=0070f3&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jens-baumeister&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
