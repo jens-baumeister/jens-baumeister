@@ -21,8 +21,6 @@
 
 Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien. Aktuell arbeite ich viel mit JavaScript und CSS.
 
-- 🔭 Ich arbeite aktuell an: **sakura-ramen-responsive** & **bestellApp**
-- 🌱 Ich lerne gerade: **Backend-Strukturen & Frameworks**
 
 ---
 
